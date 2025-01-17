@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15193421810",
+    "project_id": "ar-vr-portfolio-project",
+    "storage_bucket": "ar-vr-portfolio-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15193421810:android:c11a53d97ce04069c31d6b",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.arvrportfolioproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh8wKeS2tMF9o5orTKa5I6bwPlRcRR5Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

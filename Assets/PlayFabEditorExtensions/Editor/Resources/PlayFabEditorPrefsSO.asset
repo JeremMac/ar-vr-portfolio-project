@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d0199c11aa6f514784c5c69cd8378d8, type: 3}
+  m_Name: PlayFabEditorPrefsSO
+  m_EditorClassIdentifier: 
+  DevAccountEmail: 6803@holbertonstudents.com
+  DevAccountToken: 8khpkj13ofk5ctwfzq59z3nnhbpojaj18t6dtekhtmezwsxquci5jnpb1ph73hapwhzj5jhkiwkapfax43uhoxgj398x75bkq8mze5a3bibjkifj1bs6hkw167jdojucqhj5eppxdm99bjrbt4tqfx87xc4ubeb3mzb7rj9qqxu8desyqmuamt9anjeh4canpq4sbrxx
+  AadAuthorization: 
+  SelectedStudio: AR-VR portfolio
+  SdkPath: Assets/PlayFabSDK
+  EdExPath: 
+  LocalCloudScriptPath: 
+  PanelIsShown: 0
+  curMainMenuIdx: 1
+  curSubMenuIdx: 0
