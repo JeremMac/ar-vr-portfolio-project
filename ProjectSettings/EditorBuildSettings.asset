@@ -11,4 +11,23 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/products.unity
     guid: ee85c75e70e840948be0c4dcb2212b0a
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/ARtable.unity
+    guid: b5c2c4a7fbba2454c8ee0604feec0422
+  - enabled: 1
+    path: Assets/Scenes/ARdrawer.unity
+    guid: 77976032110aefe4191bd44083160b39
+  m_configObjects:
+    EasyAR.Settings: {fileID: 11400000, guid: 4a246aee0ce70f244b3ffa984b4caa9e, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 05938f3a6bb0a754590c44442958e5c4,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a85f17fdf140ef94b87547c6351c5552,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 166c944f751159040b2cbf534ee7715c,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: d579425be2e8e694f886282d640714f4,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: dc7ed8aef96c36840b5966024644038c,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 5b7278e4782bb7647bd8d9fccc4ce276,
+      type: 2}
